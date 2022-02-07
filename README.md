@@ -56,11 +56,13 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 #### Hands on Datasets
 
-[dataset-list](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/dataset-list.ms) < some resources of datasets & archives
+[dataset-list](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/dataset-list.md) < some resources of datasets & archives
 
 [scrape-load_textcorpora](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/scrape-load_textcorpora.ipynb) < some basic examples and code-snippets to srape, load and walk through datasets
 
 [scraper_wikipedia](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/scraper_wikipedia.ipynb) < extract text of specific wikipedia articles
+
+[clean_datasets](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/00_General-introductions/clean-token-read.ipynb)
 
 #### Coding books with Python
 
@@ -86,31 +88,29 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 ### Hands on Markov Chain
 
-[Markov Chain - Background and knowledge]() < basic knowledge of Markov chain
+[Markov Chain - Background and knowledge](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_0_Background_and_knowledge.ipynb) < basic knowledge of Markov chain
 
-[Character based Markov Chain]() < Character based Markov chain, second order text generation.
+[Markov Chain - Basic (Second Order Text Generation](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_1_Basic_Second_Order.ipynb) < Basic usage of Markov chain with second order text generation.
 
-[N-Order text generation]() < N-Order text generation.
+[Markov Chain - N-order Text Generation](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_2_N-order_Text_Generation.ipynb) < N-Order text generation.
 
-[Markov Chain - OOP]() < Markov Chain based on object oriented programming.
+[Markov Chain - OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_3_Class.ipynb) < Markov Chain based on object oriented programming.
 
-[extented knowledge - word based Markov chain]()
+[Additional - Markov Chain with Image](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_Image.ipynb) Image Generation based on Markov Chain
 
 ### Hands on Artificial Neural Networks (ANN)
 
-[ANN-in-Keras.ipynb]() < Dense Neural Network with Keras
-
-[Keras-ANN-with-Copilot.py]() < step by step with [Copilot](https://copilot.github.com/)
+[ANN-in-Keras.ipynb](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/03_ANN/Keras-ANN.ipynb) < Dense Neural Network with Keras
 
 ### Hands on Recurrent Neural Networks (RNN) / Long Short Term Memory (LSTM) Networks
 
-[Text generation with LSTM]() < Text generation with RNN/LSTM
-[char RNN PyTorch]() < some Char-RNN's in Pytorch
+[Text generation with LSTM](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/03_RNN/LSTM-Textgenerator.ipynb) < Text generation with RNN/LSTM
 
-### Hands on GPT
+### Hands on GPT-?
 
-* [aitextgen]() 
-* [gpt-2 with huggingface pipeline]() 
+[HuggingFace Pipeline]()
+
+[aitextgen]()
 
 ---
 
