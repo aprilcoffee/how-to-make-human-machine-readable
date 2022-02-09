@@ -96,11 +96,15 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 [Markov Chain - OOP](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_3_Class.ipynb) < Markov Chain based on object oriented programming.
 
+[Markov Chain - Markovify-library](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_Markovify_Library.ipynb) < Markov Chain based on github repo https://github.com/jsvine/markovify
+
 [Additional - Markov Chain with Image](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/02_Markov-Chain/Markov_Chain_Image.ipynb) Image Generation based on Markov Chain
 
 ### Hands on Artificial Neural Networks (ANN)
 
 [ANN-in-Keras.ipynb](https://github.com/experimental-informatics/how-to-make-human-machine-readable/blob/master/03_ANN/Keras-ANN.ipynb) < Dense Neural Network with Keras
+
+\+ working with [Copilot](https://copilot.github.com/)
 
 ### Hands on Recurrent Neural Networks (RNN) / Long Short Term Memory (LSTM) Networks
 
@@ -108,9 +112,9 @@ We ask for registration at [ground-zero@khm.de](mailto:ground-zero@khm.de) until
 
 ### Hands on GPT-?
 
-[HuggingFace Pipeline]()
+[HuggingFace Pipeline](https://github.com/experimental-informatics/how-to-make-human-machine-readable/tree/master/04_GPT/huggingface-pipeline) < the HuggingFace way to use state-of-the-art NLP-models for inference
 
-[aitextgen]()
+[aitextgen](https://github.com/experimental-informatics/how-to-make-human-machine-readable/tree/master/04_GPT/aitextgen) < Python tool for text-based AI training and generation using GPT-2
 
 ---
 
